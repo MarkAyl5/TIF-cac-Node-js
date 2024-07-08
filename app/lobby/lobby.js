@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const comision = prompt("Nueva comisión:");
 
 
-        const fechaDeInscripcion = prompt("Nueva fecha de inscripción (YYYY-MM-DD):");
+        const fechaDeInscripcion = prompt("Nueva fecha de inscripción:");
 
         fetch(`http://localhost:3000/api/estudiantes/${id}`, {
             method: 'PUT',
