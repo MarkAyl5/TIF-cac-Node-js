@@ -1,0 +1,7 @@
+Adjunto aquí las variables de entorno:
+
+MYSQL_ADDON_HOST=bfloqj9obq1wj3utjbui-mysql.services.clever-cloud.com
+MYSQL_ADDON_DB=bfloqj9obq1wj3utjbui
+MYSQL_ADDON_USER=uqsdvdel5tz0r2ho
+MYSQL_ADDON_PORT=3306
+MYSQL_ADDON_PASSWORD=V51N25IpvQPVAGQqOmZD
